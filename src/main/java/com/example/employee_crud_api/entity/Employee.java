@@ -1,4 +1,4 @@
-package com.example.employee_crud_api;
+package com.example.employee_crud_api.entity;
 
 import jakarta.persistence.*;
 
