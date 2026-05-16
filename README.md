@@ -1,17 +1,26 @@
 # Employee CRUD API
 
-## Technologies Used
+## 📌 Project Description
+This project is a REST API built using Spring Boot that performs CRUD operations on Employee data.
+
+## 🛠 Technologies Used
+- Java
 - Spring Boot
+- Spring Data JPA
 - MySQL
-- JPA
+- Maven
 
-## APIs
+## 🚀 Features
+- Create Employee
+- Get Employee
+- Update Employee
+- Delete Employee
 
-GET /employees  
-POST /employees  
-PUT /employees/{id}  
-DELETE /employees/{id}
+## 📷 Screenshots
+(Add your uploaded screenshots here)
 
-## How to Run
-1. Run application
-2. Open http://localhost:8080/employees
+## ▶ How to Run
+1. Clone the repo
+2. Open in IntelliJ / VS Code
+3. Run Spring Boot application
+4. Test APIs using Postman
